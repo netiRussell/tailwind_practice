@@ -12,6 +12,5 @@ if (mobile_opener) {
   };
 
   mobile_opener.addEventListener("click", mobile_functionality);
-
   mobile_closer.addEventListener("click", mobile_functionality);
 }
